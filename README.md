@@ -1,18 +1,18 @@
 # Projects
 ## Contents
 * Web Services (front-end)
-  - [2019 UDC 해커톤]('#2019_UDC_해커톤')
-  - [2019 한전 해커톤]('#2019_한전_해커톤')
-  - [2019 Drunkare]('#2019_Drunkare')
-  - [2020 VMOlab 홈페이지]('#2020_VMOlab_홈페이지') `IN PROGRESS`
+  - [2019 UDC 해커톤](#2019-udc-해커톤)
+  - [2019 한전 해커톤](#2019-한전-해커톤)
+  - [2019 Drunkare](#2019-drunkare)
+  - [2020 VMOlab 홈페이지](#2020-vmolab-홈페이지) `IN PROGRESS`
 * Internship & Research
-  - [2018 LG전자 인턴]('#2018_LG전자_인턴')
-  - [2018 대학원 인턴]('#2018_대학원_인턴')
+  - [2018 LG전자 인턴](#2018-lg전자-인턴)
+  - [2018 대학원 인턴](#2018-대학원-인턴)
 * Game Development
-  - [홈 어론]('#홈_어론(Home_Alone)')
-  - [하트 얌얌]('#하트_얌얌(Hearts_YUM-YUM)')
-  - [귀여운 오목]('#귀여운_오목')
-  - [day by day]('#day_by_day')
+  - [홈 어론](#홈-어론home-alone)
+  - [하트 얌얌](#하트-얌얌hearts-yum-yum)
+  - [귀여운 오목](#귀여운-오목)
+  - [day by day](#day-by-day)
 
 # Web Services
 ## 2019 UDC 해커톤
@@ -40,8 +40,7 @@
 ### Source Code
 * Git : https://github.com/snu-amp19-team1
 
-## 2020 VMOlab 홈페이지
-`IN PROGRESS`
+## 2020 VMOlab 홈페이지 `IN PROGRESS`
 ![](src/vmolab/demo.gif)
 ### Role
 * vuejs 프레임워크 기반 프론트엔드 작업
@@ -59,7 +58,7 @@
 * Demo : https://wicg.github.io/spatial-navigation/demo/
 * Released Polyfill : https://www.npmjs.com/package/spatial-navigation-polyfill
 
-## 대학원 인턴
+## 2018 대학원 인턴
 ### Role
 * Solidity 컴파일러 최적화 기능 개선
 * 같은 스마트 컨트랙트 코드를 작성하더라도 가스 소모량이 적은 바이트코드를 산출하게 함
