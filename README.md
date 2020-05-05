@@ -4,7 +4,7 @@
   - [2019 UDC 해커톤](#2019-udc-해커톤)
   - [2019 한전 해커톤](#2019-한전-해커톤)
   - [2019 Drunkare](#2019-drunkare)
-  - [2020 VMOlab 홈페이지](#2020-vmolab-홈페이지) `IN PROGRESS`
+  - [2020 VMOlab 홈페이지](#2020-vmolab-홈페이지-in-progress) `IN PROGRESS`
 * Internship & Research
   - [2018 LG전자 인턴](#2018-lg전자-인턴)
   - [2018 대학원 인턴](#2018-대학원-인턴)
