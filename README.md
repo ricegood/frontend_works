@@ -25,6 +25,7 @@
 
 ## 2019 한전 해커톤
 ![](src/energy/demo.gif)
+* See full demo here : https://youtu.be/3AgCQQ9CHHE
 ### Role
 * 프론트엔드 개발 및 디자인 (오픈소스 Uniswap Frontend 사용)
 * React 기반 프론트엔드
@@ -82,6 +83,7 @@
 
 ## 하트 얌얌(Hearts YUM-YUM)
 ![](src/heartyumyum/demo.gif)
+* See full demo here: https://youtu.be/8Ql8mqpblP0
 ### Role
 * 개인 프로젝트
 * 기획 / 개발 / 아트
